@@ -7,7 +7,7 @@ Course: CIS106
 # Week report 2
 
 ## The basics of Virtualization 
-Virtualization is has two types of hypervisors, there's type 1 where it runs on the hardware. Then there's type 2, where it runs on a host operating system. 
+Virtualization has two types of hypervisors, there's type 1 where it runs on the hardware. Then there's type 2, where it runs on a host operating system. 
 Type 1 Example: VMware ESX and ESXi
 Type 2 Example: VMware Workstation Player/Pro
 
