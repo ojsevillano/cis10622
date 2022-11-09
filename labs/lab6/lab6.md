@@ -21,3 +21,4 @@ Semester: Fall 22
 
 ## Question 5 (Challenge)
 ![q5.1](q5.1.png)
+![q5.2](q5.2.png)
